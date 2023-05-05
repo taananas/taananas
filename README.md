@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Tanya!+Nice+to+meet+you!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-
-## Skills
+## Skills ⚒️
 - SwiftUI, Combine, MVVM
 - SOLID, DRY, KISS
 - RestAPI, Apollo
@@ -17,7 +17,7 @@
 - Figma, Sketch
 
 
-### Programing Languages👾
+### Programing Languages 👾
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +33,10 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 
-### Tools👾
+### Tools 👾
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### Contact 📨
+t.rybalkina@brightlab.me
