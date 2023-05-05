@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!;I'm+Tanya+and+welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!;I'm+Tanya,+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 I have excellent experience in the IT industry for 5 years, as a project manager for 2 years and a Swift developer for 3 years. Now I'm a member of a team of designers and developers, but I also fulfill orders in parallel, working as a freelancer.
 
